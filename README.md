@@ -2,7 +2,7 @@
 
 ## Estrutura da Prova de Conceito
 
-![Alt text]([[https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/fillipepaz/DevOpsDaysAju-2024/blob/main/arch/arch.png)](https://github.com/fillipepaz/DevOpsDaysAju-2024/blob/main/arch/arch.png) "Estrutura Apresentada")
+![Estrutura Apresentada](https://github.com/fillipepaz/DevOpsDaysAju-2024/blob/main/arch/arch.png "Estrutura Apresentada")
 
 ## Versionamento da Infraestrutura
 Repositório onde serão abertos os pull requests com as solicitações de provisionamento de infraestrutura.
