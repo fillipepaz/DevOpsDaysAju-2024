@@ -17,6 +17,6 @@ Repositório contendo o módulo Terraform que abstrai o conjunto de recursos nec
 [Link para o repositório do módulo](https://github.com/fillipepaz/aws-cloudfront-module)
 
 ## Atlantis
-Foi utilizada a versão 4.20 do Helm Chart do Atlantis. É possível encontrar em: [https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.20.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.20.0)
+Foi utilizada a versão 4.20.0 do Helm Chart do Atlantis. É possível encontrar em: [https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.20.0](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.20.0)
 Será necessário configurar um ingress com IP público para receber os Webhooks do serviço de Git escolhido.
 A configuração do webhook pode ser encontrada no link: [https://www.runatlantis.io/docs/configuring-webhooks.html#github-github-enterprise](https://www.runatlantis.io/docs/configuring-webhooks.html)
